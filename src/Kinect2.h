@@ -44,6 +44,7 @@
 #include "cinder/Rect.h"
 #include "cinder/Surface.h"
 #include "cinder/TriMesh.h"
+#include "cinder/Signals.h"
 #include <atomic>
 #include <functional>
 #include <map>
